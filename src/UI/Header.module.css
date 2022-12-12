@@ -10,11 +10,14 @@
 .a {
     text-decoration: none;
     color: #0E1116;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     transition: 200ms ease-in;
     display: inline-block;
+    border: .1rem solid #0E1116;
+    padding: .5rem;
 }
 
 .a:hover {
-     -webkit-transform: scale(1.1,1.1);
+     background-color: #0E1116;
+     color: white;
 }

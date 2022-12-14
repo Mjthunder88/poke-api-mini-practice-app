@@ -16,3 +16,20 @@
     display: flex;
     justify-content: center;
 }
+
+.button {
+    position: absolute;
+    bottom: 11rem;
+    color: #D3D5D4;
+    font-size: 1.3rem;
+    transition: 200ms ease-in;
+    display: inline-block;
+    border: .1rem solid #D3D5D4;
+    padding: .5rem;
+    background-color: rgba(0, 0, 0, 0) ;
+}
+
+.button:hover {
+    background-color: #D3D5D4;
+    color: black;
+}

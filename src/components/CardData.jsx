@@ -1,8 +1,12 @@
 import React from 'react'
 
-const CardData = (props) => {
+const CardData = ({pokemon}) => {
+
+
     return (
-        <div></div>
+        <>
+        <h1>{pokemon}</h1>
+        </>
     )
 }
 

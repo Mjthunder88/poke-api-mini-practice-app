@@ -1,0 +1,18 @@
+.card_container {
+    box-shadow: 4px, 4px, 4px, 0, #D3D5D4;
+    height: fit-content;
+    width: 60%;
+    color: #D3D5D4;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 4rem;
+
+}
+
+.main {
+    width: 100%;
+    height: 46rem;
+    display: flex;
+    justify-content: center;
+}

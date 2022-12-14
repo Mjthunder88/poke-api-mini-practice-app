@@ -4,4 +4,8 @@
     height: 10rem;
     position: absolute;
     bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: -10rem;
 }
